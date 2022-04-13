@@ -197,8 +197,8 @@ var platforms = [new Platform({
   y: 470,
   image: image
 }), new Platform({
-  x: 500,
-  y: 300,
+  x: image.width - 3,
+  y: 470,
   image: image
 })];
 var keys = {
